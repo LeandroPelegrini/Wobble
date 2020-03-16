@@ -30,4 +30,5 @@ fields:
   name: images
   label: images
 pages:
+- content/post/aaaaa-1.md
 - content/post/aaaaa.md
