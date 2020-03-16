@@ -3,58 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wobble.ml/tags/aaa/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
+    <loc>https://wobble.ml/tags/aaaa/</loc>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wobble.ml/authors/aaa/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/series/aaaaa/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/categories/aaaaa/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/post/aaaaa-1/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/post/aaaaa/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
+    <loc>https://wobble.ml/categories/aaaa/</loc>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://wobble.ml/authors/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://wobble.ml/categories/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/authors/leandro-pelegrini/</loc>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://wobble.ml/post/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/series/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://wobble.ml/tags/</loc>
-    <lastmod>2020-03-04T03:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/post/test/</loc>
+    <lastmod>2020-03-16T20:53:19-03:00</lastmod>
   </url>
   
   <url>
@@ -94,6 +79,11 @@
   
   <url>
     <loc>https://wobble.ml/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   

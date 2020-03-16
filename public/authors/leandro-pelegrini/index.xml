@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leandro Pelegrini on Wobble.</title>
+    <link>https://wobble.ml/authors/leandro-pelegrini/</link>
+    <description>Recent content in Leandro Pelegrini on Wobble.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Copyright © 2020, Wobble; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 16 Mar 2020 20:53:19 -0300</lastBuildDate>
+    
+	<atom:link href="https://wobble.ml/authors/leandro-pelegrini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://wobble.ml/post/test/</link>
+      <pubDate>Mon, 16 Mar 2020 20:53:19 -0300</pubDate>
+      
+      <guid>https://wobble.ml/post/test/</guid>
+      <description>OLa Ola Ola</description>
+    </item>
+    
+  </channel>
+</rss>

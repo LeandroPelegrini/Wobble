@@ -13,21 +13,12 @@
     
     
     <item>
-      <title>aaaaa</title>
-      <link>https://wobble.ml/post/aaaaa-1/</link>
-      <pubDate>Wed, 04 Mar 2020 03:00:00 +0000</pubDate>
+      <title>Test</title>
+      <link>https://wobble.ml/post/test/</link>
+      <pubDate>Mon, 16 Mar 2020 20:53:19 -0300</pubDate>
       
-      <guid>https://wobble.ml/post/aaaaa-1/</guid>
-      <description>Ola OLA Ola</description>
-    </item>
-    
-    <item>
-      <title>aaaaa</title>
-      <link>https://wobble.ml/post/aaaaa/</link>
-      <pubDate>Wed, 04 Mar 2020 03:00:00 +0000</pubDate>
-      
-      <guid>https://wobble.ml/post/aaaaa/</guid>
-      <description>Ola OLA Ola</description>
+      <guid>https://wobble.ml/post/test/</guid>
+      <description>OLa Ola Ola</description>
     </item>
     
     <item>
