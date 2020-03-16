@@ -29,3 +29,5 @@ fields:
 - type: image_gallery
   name: images
   label: images
+pages:
+- content/post/título-do-post-esseé-o-número-1.md
