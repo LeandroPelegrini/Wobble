@@ -1,0 +1,67 @@
+baseURL = "https://wobble.ml"
+title = "Wobble."
+subtitle = "Blog com notícias, curiosidades e tutoriais. Um novo ponto de vista sobre o presente e o"
+copyright = "Copyright © 2020, Wobble; all rights reserved."
+paginate = 2
+languageCode = "pt-br"
+DefaultContentLanguage = "pt-br"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "chunky-poster"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Leandro Pelegrini"
+  description = "Blog com notícias, curiosidades e tutoriais. Uma perspectiva do futuro em nosso presente."
+  homepageImage = "homepage-image.jpg"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = []
+  customJS = []
+
+  [params.social]
+    rss = true
+    email = "leandropelegrini@criptext.com"
+    twitter = "https://twitter.com"
+    instagram = "https://stackoverflow.com"
+    github = "https://github.com"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
