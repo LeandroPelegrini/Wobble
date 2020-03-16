@@ -4,7 +4,6 @@ authors = ["Leandro Pelegrini"]
 categories = ["Cat2", "Cat1"]
 date = 2020-03-16T22:39:00Z
 description = "Essa é a descrição do primeiro post de teste que estou fazendo"
-draft = true
 images = ["/uploads/person-holding-laboratory-flask-2280571.jpg"]
 series = ["Primeiros Posts"]
 tags = ["teste 2", "teste1"]
