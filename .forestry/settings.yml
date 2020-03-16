@@ -29,7 +29,7 @@ sections:
   label: Homepage
   create: all
   match: "**/*"
-upload_dir: images
+upload_dir: content/images
 public_path: public/images
 front_matter_path: ''
 use_front_matter_path: false
