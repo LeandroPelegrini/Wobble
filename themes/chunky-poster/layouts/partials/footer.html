@@ -7,7 +7,8 @@
                     <li class="list-inline-item">
                         {{- with .Site.GetPage "" -}}
                             {{- with .OutputFormats.Get "RSS" -}}
-                                <a href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" class="icons d-block" title="Siga nosso Feed">
+                                <a href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" class="icons d-block" title="Siga nosso Feed" style="text-decoration: none;">
+                                    <span style="font-size: 0px;">feed-rss</span>
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -19,7 +20,8 @@
                     {{- end -}}
                     {{- if .Site.Params.social.email -}}
                     <li class="list-inline-item">
-                        <a href="mailto://{{ .Site.Params.social.email }}" class="icons d-block" title="Envie um email">
+                        <a href="mailto://{{ .Site.Params.social.email }}" class="icons d-block" title="Envie um email" style="text-decoration: none;">
+                            <span style="font-size: 0px;">email</span>
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -30,7 +32,8 @@
                     {{- range $name, $path := .Site.Params.social -}}
                         {{- if and $path (not (in (slice "rss" "email") $name)) -}}
                         <li class="list-inline-item">
-                            <a href="{{ $path | safeURL }}" class="icons d-block" title="{{ $name }}">
+                            <a href="{{ $path | safeURL }}" class="icons d-block" title="{{ $name }}" style="text-decoration: none;">
+                                <span style="font-size: 0px;">{{$name}}</span>
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
