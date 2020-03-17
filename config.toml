@@ -43,16 +43,16 @@ author = "authors"
   [params.social]
     rss = true
     email = "leandropelegrini@criptext.com"
-    twitter = "https://twitter.com"
-    instagram = "https://instagram.com"
-    github = "https://github.com"
+    twitter = "https://twitter.com/P3Leandro"
+    instagram = "https://www.instagram.com/leandro_pelegrini/"
+    github = "https://github.com/LeandroPelegrini"
 
   [params.prismJS]
     enable = true
     theme = ""
 
   [params.commento]
-    enable = true
+    enable = false
     url = "https://commento.io"
 
 [markup]
