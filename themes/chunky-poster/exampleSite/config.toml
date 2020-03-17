@@ -58,7 +58,7 @@ author = "authors"
 
   [params.prismJS]
     enable = true
-    theme = ""
+    theme = "okaidia"
 
   [params.commento]
     enable = true
