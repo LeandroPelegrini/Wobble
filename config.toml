@@ -72,3 +72,5 @@ author = "authors"
     [privacy]
       [privacy.googleAnalytics]
         disable = true
+      [privacy.youtube]
+        disable = true
