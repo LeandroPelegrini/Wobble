@@ -1,6 +1,6 @@
 ---
-title: 'Our Difference'
-button: 'About us'
+title: 'Sobre nós'
+button: 'Sobre'
 weight: 2
 ---
 

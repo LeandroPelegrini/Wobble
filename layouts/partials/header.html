@@ -1,48 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-<title>
-  
-    
-    Wobble.
-  
-</title><meta name="description" content="Blog com notícias, curiosidades e tutoriais. Uma perspectiva do futuro em nosso presente."><meta name="author" content="Leandro Pelegrini">
-
-
-
-<link rel="stylesheet" href="/dist/prism.css">
-
-
-    
-        
-            <link rel="stylesheet" href="/dist/main.37ab3f61b95417873748.min.css">
-        
-    
-
-
-
-
-<link rel="canonical" href="https://wobble.ml/tags/">
-  <link href="https://wobble.ml/tags/index.xml" rel="alternate" type="application/rss+xml" title="Wobble.">
-  <link href="https://wobble.ml/tags/index.xml" rel="feed" type="application/rss+xml" title="Wobble."><meta property="og:title" content="Tags" />
-<meta property="og:description" content="Blog com notícias, curiosidades e tutoriais. Uma perspectiva do futuro em nosso presente." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://wobble.ml/tags/" />
-
-<meta itemprop="name" content="Tags">
-<meta itemprop="description" content="Blog com notícias, curiosidades e tutoriais. Uma perspectiva do futuro em nosso presente."><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Tags"/>
-<meta name="twitter:description" content="Blog com notícias, curiosidades e tutoriais. Uma perspectiva do futuro em nosso presente."/>
-
-</head>
-<body>
-    
+{{ $current := . }}
 <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top shadow-sm" id="navbar-main-menu">
     <div class="container">
-        <a class="navbar-brand font-weight-bold" href="https://wobble.ml"><svg style="
+        <a class="navbar-brand font-weight-bold" href="{{ .Site.BaseURL }}"><svg style="
     width: 173px;
     height: 23px;
 "> <svg xmlns="http://www.w3.org/2000/svg" viewBox="500 0 100 150">
@@ -75,125 +34,16 @@
         </button>
         <div class="collapse navbar-collapse" id="main-menu">
             <ul class="navbar-nav ml-auto">
-                
-                <li class="nav-item"><a class="nav-link"
-                        href="/">Home</a></li>
-                
-                <li class="nav-item"><a class="nav-link"
-                        href="/about/">About</a></li>
-                
-                
+                {{- if .Site.Params.showLanguageSwitcher -}}
+                {{ partial "i18nlist.html" . }}
+                {{- end -}}
+                {{ with .Site.Menus.main }}
+                {{ range . }}
+                <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link"
+                        href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                {{ end }}
+                {{ end }}
             </ul>
         </div>
     </div>
 </nav>
-
-    
-<main class="list container py-6"><div class="row py-3">
-        <div class="col">
-            <h3 class="display-4">Tags</h3></div>
-    </div><div class="row row-cols-1 row-cols-lg-3">
-        
-            <div class="col mb-3">
-                <div class="card h-100">
-    
-    <a href="/tags/index/" class="d-block"><div class="card-body">
-            <h4 class="card-title">index</h4>
-            <p class="card-text text-muted text-uppercase">January 1, 0001</p>
-            <div class="card-text">
-                
-            </div>
-        </div>
-    </a>
-</div>
-
-            </div>
-        
-    </div>
-</main>
-
-
-    <footer class="footer text-center bg-dark py-3">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <ul class="list-inline">
-                    <li class="list-inline-item"><a href="https://wobble.ml/index.xml" rel="alternate" type="application/rss+xml" class="icons d-block" title="Siga nosso Feed" style="text-decoration: none;">
-                                    <span style="font-size: 0px;">feed-rss</span>
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                                    </span>
-                                </a></li><li class="list-inline-item">
-                        <a href="mailto://leandropelegrini@criptext.com" class="icons d-block" title="Envie um email" style="text-decoration: none;">
-                            <span style="font-size: 0px;">email</span>
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li><li class="list-inline-item">
-                            <a href="https://github.com/LeandroPelegrini" class="icons d-block" title="github" style="text-decoration: none;">
-                                <span style="font-size: 0px;">github</span>
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li><li class="list-inline-item">
-                            <a href="https://www.instagram.com/leandro_pelegrini/" class="icons d-block" title="instagram" style="text-decoration: none;">
-                                <span style="font-size: 0px;">instagram</span>
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li><li class="list-inline-item">
-                            <a href="https://twitter.com/P3Leandro" class="icons d-block" title="twitter" style="text-decoration: none;">
-                                <span style="font-size: 0px;">twitter</span>
-                                <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-                                </span>
-                            </a>
-                        </li>
-                </ul>
-
-                <p class="text-muted">
-                    
-                        Copyright © 2020, Wobble; all rights reserved.
-                    
-                </p>
-
-                <p class="text-muted">
-                Powered by <a href="https://gohugo.io" target="_blank" rel="noreferrer">Hugo</a> with <a href="https://github.com/puresyntax71/hugo-theme-chunky-poster" target="_blank" rel="noreferrer">Chunky Poster</a>.
-                </p>
-            </div>
-        </div>
-    </div>
-</footer>
-
-    
-    
-        
-            <script src="/dist/main.2ed44664366c9940537d.min.js"></script>
-        
-    
-
-
-
-<script>
-    window.Prism = window.Prism || {};
-    window.Prism.manual = true;
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.17.1/components/prism-core.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.17.1/plugins/autoloader/prism-autoloader.min.js"></script>
-
-
-
-
-
-
-    
-</body>
-</html>
