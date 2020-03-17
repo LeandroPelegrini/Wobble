@@ -62,7 +62,7 @@ author = "authors"
 
   [params.commento]
     enable = true
-    url = "https://wobble.commento.ml"
+    url = "https://wobble.commento.io"
 
 [markup]
   [markup.highlight]
