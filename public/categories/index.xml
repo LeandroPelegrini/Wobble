@@ -7,37 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>Copyright © 2020, Wobble; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Mar 2020 20:53:19 -0300</lastBuildDate>
     
 	<atom:link href="https://wobble.ml/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>aaaa</title>
-      <link>https://wobble.ml/categories/aaaa/</link>
-      <pubDate>Mon, 16 Mar 2020 20:53:19 -0300</pubDate>
-      
-      <guid>https://wobble.ml/categories/aaaa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://wobble.ml/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wobble.ml/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://wobble.ml/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wobble.ml/categories/themes/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
