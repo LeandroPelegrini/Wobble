@@ -31,8 +31,6 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 {{< youtube ZJthWmvUzzc >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bqwxmx5cwgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
 
 ---
