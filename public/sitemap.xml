@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wobble.ml/authors/leandro-pelegrini/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/authors/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/post/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/tags/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wobble.ml/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
@@ -10,14 +45,6 @@
   <url>
     <loc>https://wobble.ml/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/authors/leandro-pelegrini/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/authors/</loc>
   </url>
   
   <url>
@@ -29,15 +56,7 @@
   </url>
   
   <url>
-    <loc>https://wobble.ml/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://wobble.ml/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/tags/</loc>
   </url>
   
 </urlset>

@@ -66,6 +66,9 @@ author = "authors"
   [services.twitter]
     disableInlineCSS = true
 
+  [services.youtube]
+    disableInlineCSS = true
+
     [privacy]
       [privacy.googleAnalytics]
         disable = true
