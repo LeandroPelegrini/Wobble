@@ -1,11 +1,11 @@
 # Single
 wordCount:
-    one: "{{ .Count }} word"
-    other: "{{ .Count }} words"
+    one: "{{ .Count }} palavra"
+    other: "{{ .Count }} palavras"
 
 readingTime:
-    one: "{{ .Count }} min read"
-    other: "{{ .Count }} mins read"
+    one: "{{ .Count }} min de leitura"
+    other: "{{ .Count }} mins de leitura"
 
 # Author
 articles:
