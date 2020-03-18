@@ -20,7 +20,7 @@ Em resposta a ameaça do coronavírus, a Itália promoveu um fechamento de bares
 
 Esta decisão resultou no crescimento do tráfego de internet, incluindo picos de interesse em sites de pirataria. Ao mesmo tempo, o coronavírus fez aumentar a procura pelo filme [Contágio (2011)](https://www.imdb.com/title/tt1598778/), que, reapareceu na lista de filmes mais baixados na semana depois de quase uma década.
 
-![Bandeiras da Itália](/images/bandeiras_italia.jpg "Bandeiras da Itália")
+{{< figure src="/images/bandeiras_italia.jpg" >}}
 
 A pandemia de Coronavírus está levando a situações sem precedentes ao redor do mundo, com governos implementando medidas drásticas para tentar conter essa ameaça.
 
@@ -34,4 +34,4 @@ O confinamento forçado tem um imenso efeito na sociedade como um todo mas enqua
 
 De acordo com a [Cloudflare](https://pt.wikipedia.org/wiki/Cloudflare), o tráfego de internet em seu servidor no norte da Itália aumentou [mais de 30%](https://blog.cloudflare.com/covid-19-impacts-on-internet-traffic-seattle-italy-and-south-korea/) comparado ao início do ano. Enquanto parte disso é resultado em trabalho remoto e consumo de notícias, teve aumento em serviços de streaming.
 
-![Imagem do gráfico 01](/images/grafico_01.png "Gráfico mostra aumento de pesquisas por Netflix na Itália")
+{{< figure src="/images/grafico_01.png" >}}
