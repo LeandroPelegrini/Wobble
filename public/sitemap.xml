@@ -3,56 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wobble.ml/authors/leandro-pelegrini/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/authors/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/categories/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/tags/coronavirus/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/tags/covid-19/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/categories/pirataria/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/tags/pirataria/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/post/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/post/quarentena-por-causa-de-coronavirus-na-italia-faz-pirataria-disparar/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wobble.ml/tags/</loc>
-    <lastmod>2020-03-18T10:27:09-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wobble.ml/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
@@ -63,11 +13,31 @@
   </url>
   
   <url>
+    <loc>https://wobble.ml/authors/leandro-pelegrini/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://wobble.ml/tags/index/</loc>
   </url>
   
   <url>
+    <loc>https://wobble.ml/post/</loc>
+  </url>
+  
+  <url>
     <loc>https://wobble.ml/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wobble.ml/tags/</loc>
   </url>
   
 </urlset>
