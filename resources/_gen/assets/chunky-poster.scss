@@ -18,6 +18,10 @@ blockquote {
     padding-left: $spacer;
 }
 
+h1 {
+    text-transform: none;
+}
+
 code {
     background-color: $gray-100;
     border-radius: $border-radius-sm;
