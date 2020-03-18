@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Wobble.</title><link>https://wobble.ml/authors/</link><description>Recent content in Authors on Wobble.</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><copyright>Copyright © 2020, Wobble; all rights reserved.</copyright><atom:link href="https://wobble.ml/authors/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://wobble.ml/authors/leandro-pelegrini/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wobble.ml/authors/leandro-pelegrini/</guid><description>Sempre curioso sobre o mundo e com facilidade em fazer pesquisas pela interne, tive a ideia de criar um blog direcionada para falantes da língua portuguesa.
-Espero conseguir trazer conteúdo relevante para os leitores e também estou aberto para novas pautas. Me envie um e-mail leandropelegrini@criptext.com.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Wobble.</title>
+    <link>https://wobble.ml/authors/</link>
+    <description>Recent content in Authors on Wobble.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Copyright © 2020, Wobble; all rights reserved.</copyright>
+    
+	<atom:link href="https://wobble.ml/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wobble.ml/authors/leandro-pelegrini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wobble.ml/authors/leandro-pelegrini/</guid>
+      <description>Sempre curioso sobre o mundo e com facilidade em fazer pesquisas pela interne, tive a ideia de criar um blog direcionada para falantes da língua portuguesa.
+Espero conseguir trazer conteúdo relevante para os leitores e também estou aberto para novas pautas. Me envie um e-mail leandropelegrini@criptext.com.</description>
+    </item>
+    
+  </channel>
+</rss>
