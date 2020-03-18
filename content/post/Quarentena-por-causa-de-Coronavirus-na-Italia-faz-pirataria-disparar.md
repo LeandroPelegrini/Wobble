@@ -13,6 +13,7 @@ tags:
 - pirataria
 authors:
 - Leandro Pelegrini
+draft: true
 
 ---
 Em resposta a ameaça do coronavírus, a Itália promoveu um fechamento de bares e comércios, forçando seus moradores a ficaram isolados em casa.
