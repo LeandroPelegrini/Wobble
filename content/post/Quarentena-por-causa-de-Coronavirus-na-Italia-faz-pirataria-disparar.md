@@ -60,3 +60,6 @@ Depois do popular grupo de _releases_ torrents YTS liberar duas novas cópias de
 Isso nunca havia acontecido, o filme possui quase uma década que foi lançado. Nunca antes um filme tão velho conseguiu voltar para a lista dos top10.
 
 Está claro que o surto de Coronavírus está afetando a maioria das partes do mundo, bagunçando severamente a sociedade. Embora essas mudanças nos hábitos de pirataria e padrões de _streaming_ devem ser documentadas, elas são, naturalmente, totalmente insignificantes na densidade do problema.
+
+
+Fonte: [TorrentFreak](https://torrentfreak.com/coronavirus-lockdown-boosts-interest-in-pirate-sites-and-services-200316/)
