@@ -18,9 +18,9 @@ theme = "chunky-poster"
     url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
     weight = 0
 
 [taxonomies]
