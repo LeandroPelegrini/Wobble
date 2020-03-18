@@ -1,12 +1,12 @@
 ---
 title: "Quarentena Por Causa De Coronavírus Na Itália Faz Pirataria Disparar"
 date: 2020-03-18T10:27:09-03:00
-images: ["https://images.unsplash.com/photo-1544115888-b1bf08d011c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1057&q=80",]
+images: ["bandeiras_italia.jpg",]
 categories: ["Pirataria",]
 description: "Em resposta a ameaça do coronavírus, a Itália promoveu um fechamento de bares e comércios, forçando seus moradores a ficaram isolados em casa."
 tags: ["coronavirus", "COVID-19", "pirataria",]
 authors: ["Leandro Pelegrini",]
-draft: true
+draft: false
 ---
 
 Em resposta a ameaça do coronavírus, a Itália promoveu um fechamento de bares e comércios, forçando seus moradores a ficaram isolados em casa.
