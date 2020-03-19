@@ -12,7 +12,8 @@
         {{- end -}}
         <div class="card-body">
             <h4 class="card-title">{{ $page.Title }}</h4>
-            <p class="card-text text-muted text-uppercase">{{ $page.Date.Format "2 Jan 2006" }}</p>
+            {{ $mymonths := index $.Site.Data.meses }}
+            <p class="card-text text-muted text-uppercase font-weight-bold ">{{ .Lastmod.Day }} {{ index $mymonths (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }}</p>
             <div class="card-text">
                 {{ $page.Summary | plainify }}
             </div>
