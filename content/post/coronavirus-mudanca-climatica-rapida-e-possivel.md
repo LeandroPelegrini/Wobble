@@ -4,7 +4,7 @@ date: 2020-03-19T10:05:30-03:00
 images: ["fabrica_clima.jpg"]
 categories: ["Meio Ambiente"]
 description: ""
-tags: ["COVID19", "Coronavírus", "Meio Ambiente"]
+tags: ["COVID-19", "Coronavírus", "Meio Ambiente"]
 authors: ["Leandro Pelegrini"]
 draft: false
 ---

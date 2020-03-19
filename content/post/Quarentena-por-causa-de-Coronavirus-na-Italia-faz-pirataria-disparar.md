@@ -8,7 +8,7 @@ categories:
 description: Em resposta a ameaça do Coronavírus, a Itália promoveu um fechamento
   de bares e comércios, forçando seus moradores a ficaram isolados em casa.
 tags:
-- coronavirus
+- Coronavírus
 - COVID-19
 - pirataria
 authors:
