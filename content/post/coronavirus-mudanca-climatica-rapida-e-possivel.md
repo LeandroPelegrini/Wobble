@@ -1,5 +1,5 @@
 ---
-title: "Coronavírus nos mostra como é possível uma mudança climática rápida"
+title: "Coronavírus nos mostra como é possível uma mudança climática"
 date: 2020-03-19T10:05:30-03:00
 images: ["fabrica_clima.jpg"]
 categories: ["Meio Ambiente"]
@@ -11,8 +11,8 @@ draft: false
 
 
 
-Sabe aquele sentimento que não passa de "caramba, estamos vivendo algo terrível" que temos em meio ao surto de Coronavírus? Você olha ao redor e vê essa crise assolando o mundo inteiro e se sente impotente, sem poder fazer nada?
-<!--more-->
+Sabe aquele sentimento que não passa de "caramba, estamos vivendo algo terrível" que temos em meio ao surto de Coronavírus?<!--more-->Você olha ao redor e vê essa crise assolando o mundo inteiro e se sente impotente, sem poder fazer nada?
+
 
 É isso que muitos têm sentido sobre a crise climática.
 

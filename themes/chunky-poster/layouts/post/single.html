@@ -8,6 +8,7 @@
                     <div class="col-lg-8">
                         <div class="meta text-muted mb-3">
                             <p class="created text-muted text-uppercase font-weight-bold mb-1">{{ $page.PublishDate.Format "02 Jan 2006 - 15:04" }}</p>
+                            <p class="created text-muted mb-1" style="font-size: 12px;">Atualizado: {{ $page.ReadingTime }}</p>
                             <span class="mr-2"><i class="fas fa-book-open mr-2"></i>{{ T "wordCount" $page.WordCount }}</span>
                             <span><i class="fas fa-clock mr-2"></i>{{ T "readingTime" $page.ReadingTime }}</span>
                         </div>
