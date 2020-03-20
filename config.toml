@@ -33,7 +33,7 @@ author = "authors"
 [params]
   author = "Leandro Pelegrini"
   description = "Blog com notícias, curiosidades e tutoriais.<br> Uma perspectiva do futuro em nosso presente."
-  homepageImage = "homepage-image.jpg"
+  homepageImage = "logofull.jpg"
   share = true
   showLanguageSwitcher = false
 
