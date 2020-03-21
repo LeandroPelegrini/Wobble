@@ -10,7 +10,7 @@ description: Em resposta a ameaça do Coronavírus, a Itália promoveu um fecham
 tags:
 - Coronavírus
 - COVID-19
-- pirataria
+- Pirataria
 authors:
 - Leandro Pelegrini
 draft: false
