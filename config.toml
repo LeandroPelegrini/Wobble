@@ -17,12 +17,17 @@ theme = "chunky-poster"
     identifier = "home"
     name = "Home"
     url = "/"
-    weight = 10
+    weight = 1
   [[menu.main]]
     identifier = "sobre"
     name = "Sobre"
     url = "/sobre/"
-    weight = 0
+    weight = 2
+  [[menu.main]]
+    identifier = "privacidade"
+    name = "Privacidade"
+    url = "/privacidade/"
+    weight = 3
 
 [taxonomies]
 category = "categories"
