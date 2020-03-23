@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://wobble.ml/sitemap.xml
